@@ -11,6 +11,7 @@ $final_message .= "\ntelephone: ".$telephone;
 $final_message .= "\ntext\n: ".$text;
 
 mail("aserekov@gmail.com", "New order from ".$contact_name, $final_message, "From:web@atta.kz" );
+mail("abzal.serekov@gmail.com", "New order from ".$contact_name, $final_message, "From:web@atta.kz" );
 print "sent";
 
 ?>
