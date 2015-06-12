@@ -397,7 +397,7 @@
 						<input name="telephone" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Телефон" />
 				    </div>
 					 <div class="col-md-6 textarea">
-							<textarea name="info" class="wow fadeInRight" data-wow-delay="0.5s">Коротко о вашем сайте</textarea>
+							<textarea name="text" class="wow fadeInRight" data-wow-delay="0.5s">Коротко о вашем сайте</textarea>
 							<input class="wow fadeInRight" data-wow-delay="0.5s" type="submit" value="ОТПРАВИТЬ" />
 					  </div>
 					  <div class="clearfix"> </div>					  
