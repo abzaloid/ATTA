@@ -1,12 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru-RU">
 <head>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <script src="js/jquery.min.js"></script>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="http://atta.kz" rel="canonical" />
+<link rel="alternate" href="http://atta.kz" hreflang="ru-RU" />
 <meta name="keywords" content="сайты, разработка, разработка сайтов, сайтостроение, дешево создать сайт, заказать сайт, создать сайт, заказать дешевый сайт, atta studios, atta.kz, atta, atamurat serekov, атамурат сереков, быстро заказать сайт, заказ сайта, заказ сайтов, алматы, алмата, сайты в алматы, разработка в алматы, разработка сайтов в алматы, сайтостроение в алматы, дешево создать сайт в алматы, заказать сайт в алматы, создать сайт в алматы, заказать дешевый сайт в алматы, atta studios в алматы, atta.kz в алматы, atta в алматы, atamurat serekov в алматы, атамурат сереков в алматы, быстро заказать сайт в алматы, заказ сайта в алматы, заказ сайтов в алматы" />
 <title>Разработка сайтов | Atta Studios </title>
+<meta name="description" content="Разработка сайтов в Алматы Atta Studios. Самые дешевые цены на качественный сайт! Заказать сайт">
+<meta name="author" content="Atta Studios">
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,300,100,500,700,600,900' rel='stylesheet' type='text/css'>
@@ -105,7 +109,7 @@
 <div class="banner">
 	 <div class="container">
 		 <div class="header">	 
-			 <div class="logo wow fadeInLeft" data-wow-delay="0.5s">
+			 <div class="logo wow fadeInLeft" data-wow-delay="0.2s">
 			 <a href="index.php"><img src="images/logo.png" alt="atta studios logo"/></a>
 			 </div>	
 			 <div class="top-menu">
@@ -128,11 +132,11 @@
 						});
 					});
 		 </script>
-		 		 <div id="home" class="banner-text wow fadeInUp" data-wow-delay="0.5s">
+		 		 <div id="home" class="banner-text wow fadeInUp" data-wow-delay="0.2s">
 			 <h1>Разработка сайтов <span>Atta Studios</span> </h1>
 			 <h2>Клиенты ищут вас в интернете.</h2>
 			 <h2>Команда молодых специалистов предлагает качественные услуги самых разных сложностей за очень доступные цены.</h2>
-			 <h2>Работаем со всеми!</h2>
+			 <h2>Работаем со всеми! Заказывайте сайт!</h2>
 			 <br>
 			 <br>
 			 <br>
@@ -148,15 +152,16 @@
 	 <div class="container">
 	 <div class="row row-centered">
 	 	<h4>О НАС</h4>
-		 <div class="col-md-6 col-centered brief-grids wow fadeInLeft" data-wow-delay="0.5s">
+		 <div class="col-md-6 col-centered brief-grids wow fadeInLeft" data-wow-delay="0.2s">
 			 <div class="brief-grid">
 				 <div class="brief-grid-text">
 					 <div class="box-grids">
-				 	 <div class="col-md-12 client wow fadeInLeft" data-wow-delay="0.5s">
+				 	 <div class="col-md-12 client wow fadeInLeft" data-wow-delay="0.2s">
 					 <div class="box-grid">
 					<p>Веб-студия «Atta Studios» предлагает услуги по разработке и продвижению веб-сайтов.</p>
 					<p>Клиенты ищут Вас в интернете!</p>
 					<p>Наличие сайта не только увеличит количество потенциальных клиентов, но и повысит престиж Вашей компании!</p>
+					<p>Закажите сайт у нас! Напишите нам о своем сайте и мы вас обязательно проконсультируем и обещаем качественный сайт за дешево</p>
 					 <span> </span>
 					 <label> </label>
 					 </div>
@@ -165,8 +170,8 @@
 				 </div>
 			 </div>
 		 </div>
-		 <div class="col-md-6 brief-grids wow fadeInRight" data-wow-delay="0.5s">
-			 <img src="images/ata.jpg" width="60%" height="60%" alt="atamurat serekov (ceo)"/>
+		 <div class="col-md-6 brief-grids wow fadeInRight" data-wow-delay="0.2s">
+			 <img src="images/ata.jpg" alt="atamurat serekov (ceo)"/>
 			 <div class="brief-grid">
 				 <div class="brief-grid-text">
 					 <h3>Атамурат Сереков (СЕО)</h3>
@@ -239,7 +244,7 @@
 			 <p>Выбери подходящий пакет услуг.</p>
 		 </div>
 		 <div class="pricing-section">
-			 <div class="col-md-4 pricing-grid wow fadeInUp" data-wow-delay="0.5s">
+			 <div class="col-md-4 pricing-grid wow fadeInUp" data-wow-delay="0.2s">
 				 <div class="pricing-top text-center">
 					 <h3>Сложный</h3>
 					 <p>От <span>230,000 тг</span></p>
@@ -259,7 +264,7 @@
 					 </div>
 				 </div>
 			 </div>
-			 <div class="col-md-4 pricing-grid wow fadeInDown" data-wow-delay="0.5s">
+			 <div class="col-md-4 pricing-grid wow fadeInDown" data-wow-delay="0.2s">
 				 <div class="pricing-top text-center">
 					 <h3>Стандартный</h3>
 					 <p>От <span>85,000 тг</span></p>
@@ -278,7 +283,7 @@
 					 </div>
 				 </div>
 			 </div>
-			 <div class="col-md-4 pricing-grid wow fadeInUp" data-wow-delay="0.5s">
+			 <div class="col-md-4 pricing-grid wow fadeInUp" data-wow-delay="0.2s">
 				 <div class="pricing-top text-center">
 					 <h3>Начальный</h3>
 					 <p>От <span>30,000тг</span></p>
@@ -327,7 +332,6 @@
 			 <h3>ПОРТФОЛИО</h3>
 			<p>Наши работы</p>
 		 </div>
-		 <!-- requried-jsfiles-for owl -->
 				<link href="css/owl.carousel.css" rel="stylesheet">
 							    <script src="js/owl.carousel.js"></script>
 							        <script>
@@ -347,20 +351,20 @@
 			  <div class="item text-center guide-sliders">
 				 <div class="col-md-4 image-grid">
 				 	<div class="portfolio-wrapper">		
-						<a href="images/dental-students.png" class="b-link-stripe b-animate-go   swipebox"  title="dental-students.kz -- Научно-образовательный веб-сайт для студентов-стоматологов">
-							<img src="images/dental-students.png" alt="Научно-образовательный веб-сайт для студентов-стоматологов"></a>
+						<a href="images/dental-students.jpg" class="b-link-stripe b-animate-go   swipebox"  title="dental-students.kz -- Научно-образовательный веб-сайт для студентов-стоматологов">
+							<img src="images/dental-students.jpg" alt="Научно-образовательный веб-сайт для студентов-стоматологов"></a>
 			         </div>			 
 				 </div>
 				 <div class="col-md-4 image-grid">
 				 	<div class="portfolio-wrapper">	
-				 		<a href="images/perevotta.png" class="b-link-stripe b-animate-go   swipebox"  title="perevotta.kz -- Переводческое агентство «Перевотта»">
-						 <img src="images/perevotta.png" alt="Переводческое агентство «Перевотта»"></a>		
+				 		<a href="images/perevotta.jpg" class="b-link-stripe b-animate-go   swipebox"  title="perevotta.kz -- Переводческое агентство «Перевотта»">
+						 <img src="images/perevotta.jpg" alt="Переводческое агентство «Перевотта»"></a>		
 					 </div>			 
 				 </div>
 				 <div class="col-md-4 image-grid">
 					 <div class="portfolio-wrapper">	
-				 		<a href="images/kaznmulab.png" class="b-link-stripe b-animate-go   swipebox"  title="kaznmulab.appspot.com -- Научная клинико-диагностическая лаборатория Казахского Национального медицинского университета имени С.Д.Асфендиярова (НКДЛ КазНМУ)">
-						 <img src="images/kaznmulab.png" alt="Научная клинико-диагностическая лаборатория Казахского Национального медицинского университета имени С.Д.Асфендиярова (НКДЛ КазНМУ)"></a>		
+				 		<a href="images/kaznmulab.jpg" class="b-link-stripe b-animate-go   swipebox"  title="kaznmulab.appspot.com -- Научная клинико-диагностическая лаборатория Казахского Национального медицинского университета имени С.Д.Асфендиярова (НКДЛ КазНМУ)">
+						 <img src="images/kaznmulab.jpg" alt="Научная клинико-диагностическая лаборатория Казахского Национального медицинского университета имени С.Д.Асфендиярова (НКДЛ КазНМУ)"></a>		
 					 </div>					 
 				 </div>				   
 			  </div>			  			  
@@ -417,7 +421,7 @@
 			   <script type="text/javascript" src="js/jquery.flexisel.js"></script>	
 	     </div>
 		  <div class="box-grids">
-				 <div class="col-md-6 client wow fadeInLeft" data-wow-delay="0.5s">
+				 <div class="col-md-6 client wow fadeInLeft" data-wow-delay="0.2s">
 					 <div class="box-grid">
 					 <span> </span>
 					 <p>Класс!Класс!Класс!Класс!Класс!Класс!Класс!Класс!Класс!</p>
@@ -426,7 +430,7 @@
 					 <h4><a href="http://perevotta.kz">Perevotta</a></h4>
 					 <p class="ceo">Маржан (СЕО)</p>
 				 </div>
-				 <div class="col-md-6 client wow fadeInRight" data-wow-delay="0.5s">
+				 <div class="col-md-6 client wow fadeInRight" data-wow-delay="0.2s">
 					 <div class="box-grid">
 					 <span> </span>
 					 <p>Супер!Супер!Супер!Супер!Супер!Супер!Супер!Супер!Супер!</p>
@@ -442,8 +446,8 @@
 <!---->
 <div class="get-started">
 	 <div class="container">
-		 <h4 class="wow bounceInLeft" data-wow-delay="0.5s">Поторопитесь!</h4>
-		 <h3 class="wow bounceInRight" data-wow-delay="0.5s">Закажите до 1-ого июля и получите скидку в 15%!</h3>
+		 <h4 class="wow bounceInLeft" data-wow-delay="0.2s">Поторопитесь!</h4>
+		 <h3 class="wow bounceInRight" data-wow-delay="0.2s">Закажите до 1-ого июля и получите скидку в 15%!</h3>
 		 <a class="scroll" href="#contact">НАЧАТЬ!</a>
 	 </div>
 </div>
@@ -457,13 +461,13 @@
 		  <div class="contact-form">
 			<form method="post" action="upload.php" enctype="multipart/form-data" name="phmailer">
 					<div class="col-md-6 text-box">
-						<input name="name" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Ваше имя" />
-						<input name="email" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Электронный адрес куда мы ответим" />
-						<input name="telephone" class="wow fadeInLeft" data-wow-delay="0.5s" type="text" placeholder="Телефон" />
+						<input name="name" class="wow fadeInLeft" data-wow-delay="0.2s" type="text" placeholder="Ваше имя" />
+						<input name="email" class="wow fadeInLeft" data-wow-delay="0.2s" type="text" placeholder="Электронный адрес куда мы ответим" />
+						<input name="telephone" class="wow fadeInLeft" data-wow-delay="0.2s" type="text" placeholder="Телефон" />
 				    </div>
 					 <div class="col-md-6 textarea">
-							<textarea name="text" class="wow fadeInRight" data-wow-delay="0.5s">Коротко о вашем сайте</textarea>
-							<input class="wow fadeInRight" data-wow-delay="0.5s" type="submit" value="ОТПРАВИТЬ" />
+							<textarea name="text" class="wow fadeInRight" data-wow-delay="0.2s">Коротко о вашем сайте</textarea>
+							<input class="wow fadeInRight" data-wow-delay="0.2s" type="submit" value="ОТПРАВИТЬ" />
 					  </div>
 					  <div class="clearfix"> </div>					  
 			  </form>
@@ -473,10 +477,10 @@
 <div class="footer">
 	 <div class="container">
 		 <div class="ftr-logo">
-			 <a class="wow bounceIn" data-wow-delay="0.5s" href="/"><img src="images/logo.png" alt="atta studios logo"/></a>
+			 <a class="wow bounceIn" data-wow-delay="0.2s" href="/"><img src="images/logo.png" alt="atta studios logo"/></a>
 			 <br/>
 			 <span style="color:white;">
-			 Гор.тел.: +7 (727) 354 58 64 <br/>
+			 Гор.тел. (Алматы): +7 (727) 354 58 64 <br/>
 			 Моб.тел: +7 777 681 25 42<br/>
 			 E-mail: info@atta.kz<br/>
 			 </span>
@@ -488,8 +492,8 @@
 		</div>
 		 <div class="ftr-logo">
 		 </div>
-		 <div class="copy-right wow bounceInUp" data-wow-delay="0.5s">
-			 <p>Авторское право &#169; 2015. Все права защищены.</p>
+		 <div class="copy-right wow bounceInUp" data-wow-delay="0.2s">
+			 <p>Авторское право &#169; Алматы, 2015. Все права защищены.</p>
 			 <p>Дизайн от <a href="http://atta.kz/"> Atta Studios </a></p>
 		 </div>
 
