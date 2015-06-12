@@ -118,19 +118,15 @@ line-height:1.5em;
 width: 91%;
 }
 .brief-grid-content1 {
-background: url(../images/f1.png) no-repeat 0px 0px;
 padding: 0px 0 22px 60px;
 margin:2em 0 0.5em 0;
 }
 .brief-grid-content2 {
-background: url(../images/f2.png) no-repeat 0px 0px;
 padding: 0px 0 22px 60px;
 }
 .good {
-background: url(../images/f3.png) no-repeat 0px 0px;
 }
 .video-bac {
-background: url(../images/f4.png) no-repeat 0px 0px;
 }
 .brief-grid-content1 h3,.brief-grid-content2 h3{
 color:#393939;
@@ -169,7 +165,7 @@ line-height:1.5em;
 width:60px;
 height:60px;
 display:inline-block;
-background:url(../images/feature.png) no-repeat 0px 0px;
+color: #0492da;
 }
 .features-section{
 margin-top:2em;
