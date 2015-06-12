@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Разработка сайтов | Atta Studios </title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <script src="js/jquery.min.js"></script>
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="abzal, hello, world" />
+<meta name="keywords" content="сайты, разработка, разработка сайтов, сайтостроение, дешево создать сайт, заказать сайт, создать сайт, заказать дешевый сайт, atta studios, atta.kz, atta, atamurat serekov, атамурат сереков, быстро заказать сайт, заказ сайта, заказ сайтов, алматы, алмата, сайты в алматы, разработка в алматы, разработка сайтов в алматы, сайтостроение в алматы, дешево создать сайт в алматы, заказать сайт в алматы, создать сайт в алматы, заказать дешевый сайт в алматы, atta studios в алматы, atta.kz в алматы, atta в алматы, atamurat serekov в алматы, атамурат сереков в алматы, быстро заказать сайт в алматы, заказ сайта в алматы, заказ сайтов в алматы" />
+<title>Разработка сайтов | Atta Studios </title>
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Raleway:400,800,300,100,500,700,600,900' rel='stylesheet' type='text/css'>
@@ -33,13 +33,80 @@
 				$(".swipebox").swipebox();
 			});
 		</script>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Atta Studios",
+  "image": "http://atta.kz/images/logo.png",
+  "description": "Индивидуальный дизайн, Адаптивная верстка, Первичная раскрутка сайта, Продвижение (SEO), Техническая поддержка сайта, Оптимальные цены, Удобное управление сайтом, Высокое юзабилити",
+  "mpn": "Стандартный",
+  "brand":{
+    "@type": "thing",
+    "name": "Atta Studios"
+  },
+  "offers":{
+    "@type": "Offer",
+    "priceCurrency": "KZT",
+    "price": "30000",
+    "priceValidUntil": "2020-11-05",
+    "itemCondition": "http://schema.org/UsedCondition",
+    "availability": "http://schema.org/InStock",
+    "seller":{
+      "@type": "Organization",
+      "name": "Atta Studios"
+    }
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{  "@context" : "http://schema.org",
+   "@type" : "WebSite",
+   "name" : "Atta Studios",
+   "alternateName" : "Разработка сайтов Atta Studios",
+   "url" : "http://atta.kz"
+}
+</script>
+
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://atta.kz",
+      "logo": "http://atta.kz/images/logo.png",
+        "contactPoint" : [
+    { "@type" : "ContactPoint",
+      "telephone" : "+7-777-681-25-42",
+      "contactType" : "customer service"
+    } ],
+      "sameAs" : [ "http://www.facebook.com/atta.studios",
+    "http://vk.com/atta_studios",
+    "http://plus.google.com/u/0/116268625658302779156/about"] 
+    }
+    </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12869183-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
 </head>
 <body>
 <div class="banner">
 	 <div class="container">
 		 <div class="header">	 
 			 <div class="logo wow fadeInLeft" data-wow-delay="0.5s">
-			 <a href="index.html"><img src="images/logo.png" width="100%" height="100%" alt="atta studios logo"/></a>
+			 <a href="index.php"><img src="images/logo.png" alt="atta studios logo"/></a>
 			 </div>	
 			 <div class="top-menu">
 				 <span class="menu"> </span> 
@@ -69,13 +136,11 @@
 			 <br>
 			 <br>
 			 <br>
-			 <h2>
  				<div class="btn-group">
 					<a class="btn btn-primary" href="https://vk.com/atta_studios"><i class="fa fa-vk fa-2x"></i></a>
 					<a class="btn btn-primary" href="https://www.facebook.com/atta.studios"><i class="fa fa-facebook fa-2x"></i></a>
 					<a class="btn btn-primary" href="https://plus.google.com/u/0/116268625658302779156/about"><i class="fa fa-google-plus fa-2x"></i></a>
 				</div>			 	
-			 </h2>
 		 </div>
 	</div>
 </div>
